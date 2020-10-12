@@ -82,8 +82,8 @@
 				<div><img src="zeenat1.jpg" class="img"></div>
 				<div class="alignright pad20">
 				       <h4>Zeenat Saba</h4>
-				        <p>SSIPMT Raipur<br>
-				         B.Tech CSE</p>
+				        <p>B.Tech CSE<br>
+				         SSIPMT Raipur</p>
 				</div>
 			</div>
 		</div>

@@ -20,7 +20,7 @@
 			width: 100px;
 		}
 		.row1, .row2, .row6, .row7, .wrap1 {
-			background-color: #a1a1a1;
+			background-color: #ffffff;
 		}
 		.row3, .row4, .row5, .row8, .wrap2 {
 			background-color: #ccc;
@@ -43,8 +43,8 @@
 		.bgwhite {
 			background-color: #fff;
 		}
-		.bgblack {
-			background-color: #000;
+		.bgwhite {
+			background-color: #fff;
 			color: #fff;
 		}
 		.alignright {
@@ -81,9 +81,9 @@
 			<div class="row1">
 				<div><img src="zeenat1.jpg" class="img"></div>
 				<div class="alignright pad20">
-					<h4>Zeenat Saba</h4>
-				 	<p>SSIPMT Raipur<br>
-					   B.Tech CSE</p>
+				       <h4>Zeenat Saba</h4>
+				        <p>SSIPMT Raipur<br>
+				         B.Tech CSE</p>
 				</div>
 			</div>
 		</div>

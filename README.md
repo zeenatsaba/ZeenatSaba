@@ -141,7 +141,7 @@
 		</div>
 <div class="wrap1">
 			<div class="row7">
-				<div class="bgwhite pad20">
+				<div class="bgblack pad20">
 					<h4 class="aligncenter">Personal Details</h4>
 					<ul>
 						<li>Zeenat Saba</li>

@@ -43,7 +43,7 @@
 		.bgwhite {
 			background-color: #fff;
 		}
-		.bgblack {
+		.bgwhite {
 			background-color: #000;
 			color: #fff;
 		}

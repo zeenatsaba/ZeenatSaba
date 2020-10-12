@@ -79,7 +79,7 @@
 <body>
 		<div class="wrap1">
 			<div class="row1">
-				<div><img src="Zeenat1.jpg" class="img"></div>
+				<div><img src="zeenat1.jpg" class="img"></div>
 				<div class="alignright pad20">
 					<h4>Zeenat Saba</h4>
 					<p>SSIPMT Raipur<br>
